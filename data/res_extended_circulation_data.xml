@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<openerp>
+    <data noupdate="1">
+        <record id="res_extended_circulation_500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">490</field>
+            <field name="name">500</field>
+            <field name="value_opt">500</field>
+        </record>
+        <record id="res_extended_circulation_750" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">480</field>
+            <field name="name">750</field>
+            <field name="value_opt">750</field>
+        </record>
+        <record id="res_extended_circulation_1000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">470</field>
+            <field name="name">1000</field>
+            <field name="value_opt">1000</field>
+        </record>
+        <record id="res_extended_circulation_1250" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">460</field>
+            <field name="name">1250</field>
+            <field name="value_opt">1250</field>
+        </record>
+        <record id="res_extended_circulation_1500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">450</field>
+            <field name="name">1500</field>
+            <field name="value_opt">1500</field>
+        </record>
+        <record id="res_extended_circulation_1750" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">440</field>
+            <field name="name">1750</field>
+            <field name="value_opt">1750</field>
+        </record>
+        <record id="res_extended_circulation_2000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">430</field>
+            <field name="name">2000</field>
+            <field name="value_opt">2000</field>
+        </record>
+        <record id="res_extended_circulation_2250" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">420</field>
+            <field name="name">2250</field>
+            <field name="value_opt">2250</field>
+        </record>
+        <record id="res_extended_circulation_2500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">410</field>
+            <field name="name">2500</field>
+            <field name="value_opt">2500</field>
+        </record>
+        <record id="res_extended_circulation_2750" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">400</field>
+            <field name="name">2750</field>
+            <field name="value_opt">2750</field>
+        </record>
+        <record id="res_extended_circulation_3000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">390</field>
+            <field name="name">3000</field>
+            <field name="value_opt">3000</field>
+        </record>
+        <record id="res_extended_circulation_3250" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">380</field>
+            <field name="name">3250</field>
+            <field name="value_opt">3250</field>
+        </record>
+        <record id="res_extended_circulation_3500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">370</field>
+            <field name="name">3500</field>
+            <field name="value_opt">3500</field>
+        </record>
+        <record id="res_extended_circulation_3750" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">360</field>
+            <field name="name">3750</field>
+            <field name="value_opt">3750</field>
+        </record>
+        <record id="res_extended_circulation_4000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">350</field>
+            <field name="name">4000</field>
+            <field name="value_opt">4000</field>
+        </record>
+        <record id="res_extended_circulation_4250" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">340</field>
+            <field name="name">4250</field>
+            <field name="value_opt">4250</field>
+        </record>
+        <record id="res_extended_circulation_4500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">330</field>
+            <field name="name">4500</field>
+            <field name="value_opt">4500</field>
+        </record>
+        <record id="res_extended_circulation_4750" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">320</field>
+            <field name="name">4750</field>
+            <field name="value_opt">4750</field>
+        </record>
+        <record id="res_extended_circulation_5000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">310</field>
+            <field name="name">5000</field>
+            <field name="value_opt">5000</field>
+        </record>
+        <record id="res_extended_circulation_5500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">300</field>
+            <field name="name">5500</field>
+            <field name="value_opt">5500</field>
+        </record>
+        <record id="res_extended_circulation_6000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">290</field>
+            <field name="name">6000</field>
+            <field name="value_opt">6000</field>
+        </record>
+        <record id="res_extended_circulation_6500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">280</field>
+            <field name="name">6500</field>
+            <field name="value_opt">6500</field>
+        </record>
+        <record id="res_extended_circulation_7000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">270</field>
+            <field name="name">7000</field>
+            <field name="value_opt">7000</field>
+        </record>
+        <record id="res_extended_circulation_7500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">260</field>
+            <field name="name">7500</field>
+            <field name="value_opt">7500</field>
+        </record>
+        <record id="res_extended_circulation_8000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">250</field>
+            <field name="name">8000</field>
+            <field name="value_opt">8000</field>
+        </record>
+        <record id="res_extended_circulation_8500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">240</field>
+            <field name="name">8500</field>
+            <field name="value_opt">8500</field>
+        </record>
+        <record id="res_extended_circulation_9000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">230</field>
+            <field name="name">9000</field>
+            <field name="value_opt">9000</field>
+        </record>
+        <record id="res_extended_circulation_9500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">220</field>
+            <field name="name">9500</field>
+            <field name="value_opt">9500</field>
+        </record>
+        <record id="res_extended_circulation_10000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">210</field>
+            <field name="name">10000</field>
+            <field name="value_opt">10000</field>
+        </record>
+        <record id="res_extended_circulation_10500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">200</field>
+            <field name="name">10500</field>
+            <field name="value_opt">10500</field>
+        </record>
+        <record id="res_extended_circulation_11000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">190</field>
+            <field name="name">11000</field>
+            <field name="value_opt">11000</field>
+        </record>
+        <record id="res_extended_circulation_11500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">180</field>
+            <field name="name">11500</field>
+            <field name="value_opt">11500</field>
+        </record>
+        <record id="res_extended_circulation_12000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">170</field>
+            <field name="name">12000</field>
+            <field name="value_opt">12000</field>
+        </record>
+        <record id="res_extended_circulation_12500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">160</field>
+            <field name="name">12500</field>
+            <field name="value_opt">12500</field>
+        </record>
+        <record id="res_extended_circulation_13000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">150</field>
+            <field name="name">13000</field>
+            <field name="value_opt">13000</field>
+        </record>
+        <record id="res_extended_circulation_13500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">140</field>
+            <field name="name">13500</field>
+            <field name="value_opt">13500</field>
+        </record>
+        <record id="res_extended_circulation_14000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">130</field>
+            <field name="name">14000</field>
+            <field name="value_opt">14000</field>
+        </record>
+        <record id="res_extended_circulation_14500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">120</field>
+            <field name="name">14500</field>
+            <field name="value_opt">14500</field>
+        </record>
+        <record id="res_extended_circulation_15000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">110</field>
+            <field name="name">15000</field>
+            <field name="value_opt">15000</field>
+        </record>
+        <record id="res_extended_circulation_15500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">100</field>
+            <field name="name">15500</field>
+            <field name="value_opt">15500</field>
+        </record>
+        <record id="res_extended_circulation_16000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">90</field>
+            <field name="name">16000</field>
+            <field name="value_opt">16000</field>
+        </record>
+        <record id="res_extended_circulation_16500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">80</field>
+            <field name="name">16500</field>
+            <field name="value_opt">16500</field>
+        </record>
+        <record id="res_extended_circulation_17000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">70</field>
+            <field name="name">17000</field>
+            <field name="value_opt">17000</field>
+        </record>
+        <record id="res_extended_circulation_17500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">60</field>
+            <field name="name">17500</field>
+            <field name="value_opt">17500</field>
+        </record>
+        <record id="res_extended_circulation_18000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">50</field>
+            <field name="name">18000</field>
+            <field name="value_opt">18000</field>
+        </record>
+        <record id="res_extended_circulation_18500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">40</field>
+            <field name="name">18500</field>
+            <field name="value_opt">18500</field>
+        </record>
+        <record id="res_extended_circulation_19000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">30</field>
+            <field name="name">19000</field>
+            <field name="value_opt">19000</field>
+        </record>
+        <record id="res_extended_circulation_19500" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">20</field>
+            <field name="name">19500</field>
+            <field name="value_opt">19500</field>
+        </record>
+        <record id="res_extended_circulation_20000" model="res.extended">
+            <field name="type_opt">circulation</field>
+            <field name="id_opt">10</field>
+            <field name="name">20000</field>
+            <field name="value_opt">20000</field>
+        </record>
+    </data>
+</openerp>

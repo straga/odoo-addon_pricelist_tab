@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<openerp>
+    <data noupdate="1">
+        <record id="res_extended_units_blank_700" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">490</field>
+            <field name="name">700</field>
+            <field name="value_opt">700</field>
+        </record>
+        <record id="res_extended_units_blank_950" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">480</field>
+            <field name="name">950</field>
+            <field name="value_opt">950</field>
+        </record>
+        <record id="res_extended_units_blank_1250" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">470</field>
+            <field name="name">1250</field>
+            <field name="value_opt">1250</field>
+        </record>
+        <record id="res_extended_units_blank_1500" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">460</field>
+            <field name="name">1500</field>
+            <field name="value_opt">1500</field>
+        </record>
+        <record id="res_extended_units_blank_1750" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">450</field>
+            <field name="name">1750</field>
+            <field name="value_opt">1750</field>
+        </record>
+        <record id="res_extended_units_blank_2000" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">440</field>
+            <field name="name">2000</field>
+            <field name="value_opt">2000</field>
+        </record>
+        <record id="res_extended_units_blank_2250" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">430</field>
+            <field name="name">2250</field>
+            <field name="value_opt">2250</field>
+        </record>
+        <record id="res_extended_units_blank_2500" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">420</field>
+            <field name="name">2500</field>
+            <field name="value_opt">2500</field>
+        </record>
+        <record id="res_extended_units_blank_2750" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">410</field>
+            <field name="name">2750</field>
+            <field name="value_opt">2750</field>
+        </record>
+        <record id="res_extended_units_blank_3000" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">400</field>
+            <field name="name">3000</field>
+            <field name="value_opt">3000</field>
+        </record>
+        <record id="res_extended_units_blank_3250" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">390</field>
+            <field name="name">3250</field>
+            <field name="value_opt">3250</field>
+        </record>
+        <record id="res_extended_units_blank_3500" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">380</field>
+            <field name="name">3500</field>
+            <field name="value_opt">3500</field>
+        </record>
+        <record id="res_extended_units_blank_3750" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">370</field>
+            <field name="name">3750</field>
+            <field name="value_opt">3750</field>
+        </record>
+        <record id="res_extended_units_blank_4000" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">360</field>
+            <field name="name">4000</field>
+            <field name="value_opt">4000</field>
+        </record>
+        <record id="res_extended_units_blank_4250" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">350</field>
+            <field name="name">4250</field>
+            <field name="value_opt">4250</field>
+        </record>
+        <record id="res_extended_units_blank_4500" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">340</field>
+            <field name="name">4500</field>
+            <field name="value_opt">4500</field>
+        </record>
+        <record id="res_extended_units_blank_4750" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">330</field>
+            <field name="name">4750</field>
+            <field name="value_opt">4750</field>
+        </record>
+        <record id="res_extended_units_blank_5000" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">320</field>
+            <field name="name">5000</field>
+            <field name="value_opt">5000</field>
+        </record>
+        <record id="res_extended_units_blank_5250" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">310</field>
+            <field name="name">5250</field>
+            <field name="value_opt">5250</field>
+        </record>
+        <record id="res_extended_units_blank_5750" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">300</field>
+            <field name="name">5750</field>
+            <field name="value_opt">5750</field>
+        </record>
+        <record id="res_extended_units_blank_6270" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">290</field>
+            <field name="name">6270</field>
+            <field name="value_opt">6270</field>
+        </record>
+        <record id="res_extended_units_blank_6770" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">280</field>
+            <field name="name">6770</field>
+            <field name="value_opt">6770</field>
+        </record>
+        <record id="res_extended_units_blank_7290" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">270</field>
+            <field name="name">7290</field>
+            <field name="value_opt">7290</field>
+        </record>
+        <record id="res_extended_units_blank_7790" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">260</field>
+            <field name="name">7790</field>
+            <field name="value_opt">7790</field>
+        </record>
+        <record id="res_extended_units_blank_8310" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">250</field>
+            <field name="name">8310</field>
+            <field name="value_opt">8310</field>
+        </record>
+        <record id="res_extended_units_blank_8810" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">240</field>
+            <field name="name">8810</field>
+            <field name="value_opt">8810</field>
+        </record>
+        <record id="res_extended_units_blank_9330" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">230</field>
+            <field name="name">9330</field>
+            <field name="value_opt">9330</field>
+        </record>
+        <record id="res_extended_units_blank_9830" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">220</field>
+            <field name="name">9830</field>
+            <field name="value_opt">9830</field>
+        </record>
+        <record id="res_extended_units_blank_10350" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">210</field>
+            <field name="name">10350</field>
+            <field name="value_opt">10350</field>
+        </record>
+        <record id="res_extended_units_blank_10850" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">200</field>
+            <field name="name">10850</field>
+            <field name="value_opt">10850</field>
+        </record>
+        <record id="res_extended_units_blank_11370" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">190</field>
+            <field name="name">11370</field>
+            <field name="value_opt">11370</field>
+        </record>
+        <record id="res_extended_units_blank_11870" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">180</field>
+            <field name="name">11870</field>
+            <field name="value_opt">11870</field>
+        </record>
+        <record id="res_extended_units_blank_12390" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">170</field>
+            <field name="name">12390</field>
+            <field name="value_opt">12390</field>
+        </record>
+        <record id="res_extended_units_blank_12890" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">160</field>
+            <field name="name">12890</field>
+            <field name="value_opt">12890</field>
+        </record>
+        <record id="res_extended_units_blank_13410" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">150</field>
+            <field name="name">13410</field>
+            <field name="value_opt">13410</field>
+        </record>
+        <record id="res_extended_units_blank_13910" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">140</field>
+            <field name="name">13910</field>
+            <field name="value_opt">13910</field>
+        </record>
+        <record id="res_extended_units_blank_14430" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">130</field>
+            <field name="name">14430</field>
+            <field name="value_opt">14430</field>
+        </record>
+        <record id="res_extended_units_blank_14930" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">120</field>
+            <field name="name">14930</field>
+            <field name="value_opt">14930</field>
+        </record>
+        <record id="res_extended_units_blank_15450" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">110</field>
+            <field name="name">15450</field>
+            <field name="value_opt">15450</field>
+        </record>
+        <record id="res_extended_units_blank_15950" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">100</field>
+            <field name="name">15950</field>
+            <field name="value_opt">15950</field>
+        </record>
+        <record id="res_extended_units_blank_16470" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">90</field>
+            <field name="name">16470</field>
+            <field name="value_opt">16470</field>
+        </record>
+        <record id="res_extended_units_blank_16970" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">80</field>
+            <field name="name">16970</field>
+            <field name="value_opt">16970</field>
+        </record>
+        <record id="res_extended_units_blank_17490" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">70</field>
+            <field name="name">17490</field>
+            <field name="value_opt">17490</field>
+        </record>
+        <record id="res_extended_units_blank_17990" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">60</field>
+            <field name="name">17990</field>
+            <field name="value_opt">17990</field>
+        </record>
+        <record id="res_extended_units_blank_18510" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">50</field>
+            <field name="name">18510</field>
+            <field name="value_opt">18510</field>
+        </record>
+        <record id="res_extended_units_blank_19010" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">40</field>
+            <field name="name">19010</field>
+            <field name="value_opt">19010</field>
+        </record>
+        <record id="res_extended_units_blank_19530" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">30</field>
+            <field name="name">19530</field>
+            <field name="value_opt">19530</field>
+        </record>
+        <record id="res_extended_units_blank_20030" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">20</field>
+            <field name="name">20030</field>
+            <field name="value_opt">20030</field>
+        </record>
+        <record id="res_extended_units_blank_20550" model="res.extended">
+            <field name="type_opt">units_blank</field>
+            <field name="id_opt">10</field>
+            <field name="name">20550</field>
+            <field name="value_opt">20550</field>
+        </record>
+    </data>
+</openerp>

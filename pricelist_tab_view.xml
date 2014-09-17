@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+    <record id="price_list_tab_view" model="ir.ui.view">
+        <field name="name">product.template.product.form</field>
+        <field name="model">product.template</field>
+        <field name="type">form</field>
+        <field name="inherit_id" ref="product.product_template_form_view" />
+        <field name="arch" type="xml">
+            <xpath expr="/form/sheet/notebook" position="inside" version="7.0">
+                <page string="Prices" >
+                    <group >
+                        <button colspan="2"
+                                name="%(action_product_mass_add_price)d"
+                                string="Add Price"
+                                type="action"
+                                icon="gtk-execute"
+                                class="oe_inline" />
+                    </group>
+                    <group colspan="2" col="2">
+                        <field name="prices_ids" nolabel="1"  widget="one2many_list" >
+                             <tree string="Price List">
+                                 <field name="sequence"/>
+                                 <field name="name"/>
+                                 <field name="price_version_id"/>
+                                 <field name="min_quantity"/>
+                                 <field name="price_surcharge"/>
+                             </tree>
+                         </field>
+                    </group>
+                </page>
+            </xpath>
+        </field>
+    </record>
+
+   <!-- it for posible add price from product -->
+    <record id="price_versionid_form_view" model="ir.ui.view">
+        <field name="name">product.pricelist.item.form</field>
+        <field name="model">product.pricelist.item</field>
+        <field name="type">form</field>
+        <field name="inherit_id" ref="product.product_pricelist_item_form_view" />
+        <field name="arch" type="xml">
+           <!-- <xpath expr="/form/sheet/notebook" position="inside" > position="attributes">-->
+            <xpath expr="//group[@string='Price Computation']" position="before">
+           <!-- <xpath expr="//field[@name='product_id']" position='before'> -->
+                <group col="4" string="Price version">
+                    <field name="price_version_id"/>
+                </group>
+
+            </xpath>
+        </field>
+    </record>
+
+</data>
+</openerp>
+
